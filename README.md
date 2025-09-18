@@ -77,18 +77,6 @@ When you access the ESP32 IP in your browser:
 
 ---
 
-## 📊 Example Serial Monitor Output
-
----
-
-## 🔮 Future Improvements
-- Add accelerometer/gyroscope (e.g., MPU6050) for more accurate tremor detection.  
-- Integrate cloud/IoT services (Blynk, MQTT, ThingSpeak) for remote alerts.  
-- Send push notifications or SMS during earthquake detection.  
-- Log vibration events with timestamps.  
-
----
-
 ## 👨‍💻 Author
 Developed by **Rahul A**  
 Feel free to fork, modify, and contribute!  
